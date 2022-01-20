@@ -1,0 +1,13 @@
+{
+    "name": "abdmu/php-proxy",
+    "authors": [
+        {
+            "name": "Abdul Munim",
+            "email": "abdmun8@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/proxy": "^3.0",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
